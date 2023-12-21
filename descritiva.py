@@ -12,3 +12,5 @@ db['petal_length'].mode()  #moda#
 db['petal_length'].median()  #mediana#
 db['petal_length'].describe()  #Medidas separatrizes#
 sns.boxplot(db['petal_length'])
+sns.heatmap(db.corr(), annot=True)
+sns.scatterplot(data=db, x='petal_length', y='petal_length')
