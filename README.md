@@ -1,6 +1,8 @@
 Dispersao.py:
 
 ![image](https://github.com/tdiascontato/DadosPython/assets/98658691/efab91f2-9cda-415e-beb0-b19d54bad3c4)
+![image](https://github.com/tdiascontato/DadosPython/assets/98658691/84da41e1-9c14-4368-a627-a9ff2d2c8a04)
+
 
 
 Descritiva.py:
