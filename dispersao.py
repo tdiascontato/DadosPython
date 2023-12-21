@@ -8,3 +8,7 @@ db = sns.load_dataset('iris')
 db['sepal_length'].max() - db['sepal_length'].min() #Amplitude Total - desatualizado?#
 db['sepal_length'].var() #Variância#
 db['sepal_length'].std() #Desvio Padrão#
+db['sepal_length'].skew()
+sns.kdeplot(db['sepal_length'])
+db['sepal_length'].kurtosis()
+
