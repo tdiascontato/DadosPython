@@ -1,3 +1,8 @@
+numpylib.py
+
+![image](https://github.com/tdiascontato/DadosPython/assets/98658691/c38fcd76-e163-4f44-9169-b62b28f337b4)
+
+
 Dispersao.py:
 
 ![image](https://github.com/tdiascontato/DadosPython/assets/98658691/efab91f2-9cda-415e-beb0-b19d54bad3c4)
