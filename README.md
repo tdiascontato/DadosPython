@@ -3,6 +3,17 @@ startups.py:
 ![image](https://github.com/tdiascontato/DadosPython/assets/98658691/2bbfdcf3-e45c-440a-8a78-e527dfa46083)
 ![image](https://github.com/tdiascontato/DadosPython/assets/98658691/5437060a-22eb-4e03-9688-f15d7430aa91)
 ![image](https://github.com/tdiascontato/DadosPython/assets/98658691/7886ffef-2641-4121-a2ac-462109c3282f)
+![image](https://github.com/tdiascontato/DadosPython/assets/98658691/3a019fe3-d9e2-4761-955f-e05a98ef2b0d)
+![image](https://github.com/tdiascontato/DadosPython/assets/98658691/e42a969c-d56d-4b63-a7f3-e112874efb4f)
+![image](https://github.com/tdiascontato/DadosPython/assets/98658691/273e4b8a-f83b-400a-8578-16672d0495e7)
+![image](https://github.com/tdiascontato/DadosPython/assets/98658691/ddb89f6a-99ea-43a0-bebc-5e6cde5f4f20)
+![image](https://github.com/tdiascontato/DadosPython/assets/98658691/0474d50b-bac7-4bf2-8927-e513ef7bec2c)
+![image](https://github.com/tdiascontato/DadosPython/assets/98658691/5f530c69-e792-4a10-93ed-b5de36211278)
+![image](https://github.com/tdiascontato/DadosPython/assets/98658691/18e72872-91ab-4f4a-8b4e-4a991624fbdc)
+
+
+
+
 
 
 numpylib.py
